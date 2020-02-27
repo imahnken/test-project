@@ -8,3 +8,7 @@ print('whatis your name?')
 # when an unknown printer took a galley of type and
 # scrambled it to make a type specimen book.
 #
+a=0
+while a<10:
+    print('ippconfig')
+    a+=2
